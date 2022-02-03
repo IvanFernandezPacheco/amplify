@@ -1,0 +1,2 @@
+# amplify
+práctica en AWS
